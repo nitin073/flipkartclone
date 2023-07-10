@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/https.github.io/flipcartclone/static/css/main.278d02f3.css",
+    "main.js": "/https.github.io/flipcartclone/static/js/main.bd909e4b.js",
+    "static/media/slick.svg": "/https.github.io/flipcartclone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/https.github.io/flipcartclone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/https.github.io/flipcartclone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/icon1.svg": "/https.github.io/flipcartclone/static/media/icon1.0ffedd5289232ef3421f490990184573.svg",
+    "static/media/slick.woff": "/https.github.io/flipcartclone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/https.github.io/flipcartclone/index.html",
+    "static/media/icon6.webp": "/https.github.io/flipcartclone/static/media/icon6.ab96c34a40c233726d81.webp",
+    "static/media/coin2.webp": "/https.github.io/flipcartclone/static/media/coin2.8d6878de840b5f2e4d2f.webp",
+    "static/media/icon11.webp": "/https.github.io/flipcartclone/static/media/icon11.2d13ff967ab59f7e47ff.webp",
+    "static/media/icon4.webp": "/https.github.io/flipcartclone/static/media/icon4.37b9a6e10042d4034749.webp",
+    "static/media/icon10.webp": "/https.github.io/flipcartclone/static/media/icon10.59f61cb8eecfcc622bd9.webp",
+    "static/media/icon12.webp": "/https.github.io/flipcartclone/static/media/icon12.c268b3e407ff9606d7b0.webp",
+    "static/media/icon14.webp": "/https.github.io/flipcartclone/static/media/icon14.d2a9f1917e7f08ae354e.webp",
+    "static/media/icon13.webp": "/https.github.io/flipcartclone/static/media/icon13.ddaaedf8727f357e6cef.webp",
+    "static/media/icon7.webp": "/https.github.io/flipcartclone/static/media/icon7.84a9ac3762e9e15cb14e.webp",
+    "static/media/icon8.webp": "/https.github.io/flipcartclone/static/media/icon8.b405b00f8a89366e3959.webp",
+    "static/media/icon9.webp": "/https.github.io/flipcartclone/static/media/icon9.2beb7e500643f2ed471f.webp",
+    "static/media/icon5.webp": "/https.github.io/flipcartclone/static/media/icon5.c488422742f79549ed4f.webp",
+    "static/media/icon3.webp": "/https.github.io/flipcartclone/static/media/icon3.d306941530d56437738e.webp",
+    "static/media/coin1.webp": "/https.github.io/flipcartclone/static/media/coin1.5d2999029a114d7eaf1d.webp",
+    "main.278d02f3.css.map": "/https.github.io/flipcartclone/static/css/main.278d02f3.css.map",
+    "main.bd909e4b.js.map": "/https.github.io/flipcartclone/static/js/main.bd909e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.278d02f3.css",
+    "static/js/main.bd909e4b.js"
+  ]
+}
